@@ -1,0 +1,9 @@
+START
+INPUT Nyiko hlabela
+If score=>50 then
+pass 
+nyiko score:75
+then 
+If 75=>50
+then 
+OUTPUT "Nyiko hlabela" + pass 
